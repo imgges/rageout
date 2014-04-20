@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/imgges/rageout/issues"
   },
-  "homepage": "https://github.com/imgges/rageout"
+  "homepage": "https://github.com/imgges/rageout",
+  "private": true
 }
