@@ -1,0 +1,30 @@
+{
+  "name": "rageout",
+  "version": "0.0.0",
+  "description": "Static data export for imgges",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "node-promise": "^0.5.10",
+    "should": "~3.3.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2",
+    "should": "^3.3.1"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imgges/rageout.git"
+  },
+  "author": "Stephen Tudor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imgges/rageout/issues"
+  },
+  "homepage": "https://github.com/imgges/rageout"
+}
