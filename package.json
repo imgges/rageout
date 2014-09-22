@@ -7,7 +7,8 @@
     "test": "test"
   },
   "dependencies": {
-    "bluebird": "^2.3.2"
+    "bluebird": "^2.3.2",
+    "native-or-bluebird": "^1.1.1"
   },
   "devDependencies": {
     "mocha": "^1.21.4",
