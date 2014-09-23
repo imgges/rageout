@@ -7,12 +7,12 @@
     "test": "test"
   },
   "dependencies": {
-    "should": "~3.3.1",
-    "bluebird": "^1.2.3"
+    "bluebird": "^2.3.2",
+    "native-or-bluebird": "^1.1.1"
   },
   "devDependencies": {
-    "mocha": "^1.18.2",
-    "should": "^3.3.1"
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
   },
   "scripts": {
     "test": "make test"
